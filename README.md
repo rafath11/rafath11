@@ -1,6 +1,10 @@
+![A guardian watching over the city at night](banner.webp)
+
 # Hi, I'm Rafath Mohammed
 
 **ServiceNow ITAM & SAM Specialist** — Dallas, Texas
+
+*Watching over the systems nobody thinks about — and building small tools that help people before things break.*
 
 I work in IT asset management: software and hardware asset lifecycles, CMDB health,
 software reconciliation, and the automation that keeps asset data honest. Currently

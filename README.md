@@ -47,12 +47,13 @@ Python unless noted — download one file and run it.
 | **[leadlog](https://github.com/rafath11/leadlog)** | One line per lead — source, booked or not, value — then a monthly report by source, so a small business can see which marketing actually works. Built to help a real owner who was tracking leads in a notebook. |
 | **[linkrot](https://github.com/rafath11/linkrot)** | Checks a list of documentation / runbook URLs for dead links and redirects, and groups the report so you fix the worst first. |
 | **[subnet-scout](https://github.com/rafath11/subnet-scout)** | A safe CIDR free-IP calculator: give it a subnet and the IPs already used, it hands back the free ones. Pure math — no scanning. |
+| **[logtrim](https://github.com/rafath11/logtrim)** | Summarizes a big log file — counts by error pattern, top offenders, and time range — so you read the summary instead of the whole file. |
 
 **Labs & forks**
 
 - **[servicenow-github-demo](https://github.com/rafath11/servicenow-github-demo)** — ServiceNow ↔ GitHub integration experiments.
 - **[ECC](https://github.com/rafath11/ECC)** (fork of affaan-m/ECC) — an agent-harness pack for Claude Code / Codex that I'm evaluating for agent-team workflows.
-- In the workshop: **logtrim** (summarizes big log files by error pattern) and **expiry-board** (a 30/60/90-day expiry warning report for contracts, certs, and licenses).
+- In the workshop: **expiry-board** (a 30/60/90-day expiry warning report for contracts, certs, and licenses).
 
 ## Certifications
 

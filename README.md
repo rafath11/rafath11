@@ -48,12 +48,13 @@ Python unless noted — download one file and run it.
 | **[linkrot](https://github.com/rafath11/linkrot)** | Checks a list of documentation / runbook URLs for dead links and redirects, and groups the report so you fix the worst first. |
 | **[subnet-scout](https://github.com/rafath11/subnet-scout)** | A safe CIDR free-IP calculator: give it a subnet and the IPs already used, it hands back the free ones. Pure math — no scanning. |
 | **[logtrim](https://github.com/rafath11/logtrim)** | Summarizes a big log file — counts by error pattern, top offenders, and time range — so you read the summary instead of the whole file. |
+| **[expiry-board](https://github.com/rafath11/expiry-board)** | One board for everything that expires — certs, licenses, contracts, warranties — sorted by days left, with a 30/60/90-day warning view. |
 
 **Labs & forks**
 
 - **[servicenow-github-demo](https://github.com/rafath11/servicenow-github-demo)** — ServiceNow ↔ GitHub integration experiments.
 - **[ECC](https://github.com/rafath11/ECC)** (fork of affaan-m/ECC) — an agent-harness pack for Claude Code / Codex that I'm evaluating for agent-team workflows.
-- In the workshop: **expiry-board** (a 30/60/90-day expiry warning report for contracts, certs, and licenses).
+- In the workshop: the next tool is being scouted — one real problem at a time, built properly before it ships.
 
 ## Certifications
 

@@ -56,6 +56,13 @@ Python unless noted — download one file and run it.
 - **[ECC](https://github.com/rafath11/ECC)** (fork of affaan-m/ECC) — an agent-harness pack for Claude Code / Codex that I'm evaluating for agent-team workflows.
 - In the workshop: the next tool is being scouted — one real problem at a time, built properly before it ships.
 
+
+## Community
+
+The tools here are built in the open, and the Discussions tab on this profile repo is where practitioners compare notes: CMDB challenges, ITAM edge cases, and what actually works in a real estate. New challenge most weeks — bring a problem, leave with an answer.
+
+- [Join the discussions](https://github.com/rafath11/rafath11/discussions)
+
 ## Repos I am studying / building on
 
 I did not build the repos below — I am studying and analysing them for patterns I can apply to ServiceNow ITAM / SAM work, and writing up what I learn on LinkedIn.

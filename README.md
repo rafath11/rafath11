@@ -56,6 +56,32 @@ Python unless noted — download one file and run it.
 - **[ECC](https://github.com/rafath11/ECC)** (fork of affaan-m/ECC) — an agent-harness pack for Claude Code / Codex that I'm evaluating for agent-team workflows.
 - In the workshop: the next tool is being scouted — one real problem at a time, built properly before it ships.
 
+## Repos I am studying / building on
+
+I did not build the repos below — I am studying and analysing them for patterns I can apply to ServiceNow ITAM / SAM work, and writing up what I learn on LinkedIn.
+
+- [grokability/snipe-it](https://github.com/grokability/snipe-it) — Studying: the best-known open-source ITAM system, for asset and license check-in/out and custody patterns.
+- [glpi-project/glpi](https://github.com/glpi-project/glpi) — Studying: license tracking and software auditing in open-source ITAM, compared with SAM Pro.
+- [ercole-io/ercole](https://github.com/ercole-io/ercole) — Studying: proactive SAM — catching license risk before an audit does.
+- [aartiq/servicenow-mcp](https://github.com/aartiq/servicenow-mcp) — Studying: how AI assistants can touch ServiceNow safely via MCP.
+- [Snow-Shell/servicenow-powershell](https://github.com/Snow-Shell/servicenow-powershell) — Studying: PowerShell automation for repetitive ServiceNow asset work.
+- [netbox-community/netbox](https://github.com/netbox-community/netbox) — Studying: DCIM/IPAM as a dedicated source of truth, compared with the CMDB.
+- [fleetdm/fleet](https://github.com/fleetdm/fleet) — Studying: live endpoint device and software inventory for CMDB reconciliation.
+- [anchore/syft](https://github.com/anchore/syft) — Studying: SBOM generation as inventory evidence for SAM normalization and reconciliation.
+- [endoflife-date/endoflife.date](https://github.com/endoflife-date/endoflife.date) — Studying: end-of-life and support lifecycle data for HAM/SAM lifecycle reviews.
+- [Combodo/iTop](https://github.com/Combodo/iTop) — Studying: an open-source CMDB and ITSM data model, compared with ServiceNow.
+- [ansible-collections/servicenow.itsm](https://github.com/ansible-collections/servicenow.itsm) — Studying: ITSM automation from Ansible for incidents, changes and problem records.
+- [denis-prilepskiy/governed-agentic-itsm-blueprint](https://github.com/denis-prilepskiy/governed-agentic-itsm-blueprint) — Studying: tool contracts, policy gates and evidence schemas for governed agentic ITSM.
+- [jameshgordy/snipeit-mcp](https://github.com/jameshgordy/snipeit-mcp) — Studying: MCP access to an ITAM system with per-user identity and read-only modes.
+- [dotdna-io/assetatlas](https://github.com/dotdna-io/assetatlas) — Studying: how scattered, contradictory tool data is reconciled into one reliable inventory.
+- [IvanBBaev/servicenow-mcp-ai](https://github.com/IvanBBaev/servicenow-mcp-ai) — Studying: safe AI writes to ServiceNow — plan, approve, apply, revert — plus drift checks.
+- [TencentBlueKing/bk-cmdb](https://github.com/TencentBlueKing/bk-cmdb) — Studying: a large-scale open CMDB model and how it handles CI relationships.
+- [Shelf-nu/shelf.nu](https://github.com/Shelf-nu/shelf.nu) — Studying: modern, lighter IT asset and equipment management and scheduling.
+- [allegro/ralph](https://github.com/allegro/ralph) — Studying: data-center CMDB, hardware lifecycle and rack-level truth vs discovery data.
+- [veops/cmdb](https://github.com/veops/cmdb) — Studying: a focused, actively maintained open CMDB and CI/resource modelling.
+- [rbw/pysnow](https://github.com/rbw/pysnow) — Studying: scripting ServiceNow API pulls for asset data reconciliation instead of manual exports.
+- [serac-labs/serac](https://github.com/serac-labs/serac) — Studying: ServiceNow MCP with blast-radius impact analysis before acting on a CI.
+
 ## Certifications
 
 11 and counting — the full, verifiable list lives on my LinkedIn.

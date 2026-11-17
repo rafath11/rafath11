@@ -91,7 +91,7 @@ I did not build the repos below — I am studying and analysing them for pattern
 
 ## Certifications
 
-11 and counting — the full, verifiable list lives on my LinkedIn.
+16 and counting — the full, verifiable list lives on my LinkedIn.
 
 - ServiceNow Micro-Certification — **Integration Hub** (passed 97%)
 - ServiceNow Micro-Certification — **Configure the CMDB**
@@ -99,6 +99,11 @@ I did not build the repos below — I am studying and analysing them for pattern
 - ServiceNow Micro-Certification — **Flows**
 - ServiceNow Micro-Certification — **Virtual Agent** (passed 100%)
 - ServiceNow Micro-Certification — **Now Assist Executive**
+- ServiceNow Micro-Certification — **Platform Analytics**
+- ServiceNow Micro-Certification — **Predictive Intelligence**
+- ServiceNow Micro-Certification — **Playbooks Essentials** (passed 100%)
+- ServiceNow — **Agentic AI Executive**
+- ServiceNow Micro-Certification — **Introduction to App Engine Studio** (passed 100%)
 - **BlueTally** — ITAM Foundations
 - **Anthropic** — Model Context Protocol (MCP)
 - **Anthropic** — AI Fluency
